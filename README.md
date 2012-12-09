@@ -1,5 +1,5 @@
-==Otro Blog
-
+Otro Blog
+=========
 Another blog. Nothing special.
 
 Features:
